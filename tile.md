@@ -1,4 +1,4 @@
-# Create Your First Project
-## Get started with ease
+# Add Watson Service
+## Enhance your mobile app with Cognitive
 
-Choose a template that best matches your use and customize the app using IBM Mobile App Builder.
+Add a cognitive service or create bots and virtual agents using natural language understanding to enhance the capabilities of your app.
