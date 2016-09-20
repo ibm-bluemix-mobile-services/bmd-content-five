@@ -1,10 +1,10 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Add Watson Service",
-		"link": "https://www.ibm.com/watson/developercloud/",
-		"description" : "Add a Watson service to your app"
+		"text" : "Code Starter - Watson Language",
+		"link": "../create-project",
+		"description" : "Use the Watson Language Code Starter to create your project"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-five/master/purple.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-five/master/purple-icon.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-five/master/temp_watson_language.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-five/master/temp_watson_language.png"
 }

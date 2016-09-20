@@ -1,4 +1,4 @@
-# Add Watson Service
-## Enhance your mobile app with Cognitive
+# Code Starter - Watson Language
+## Create a Watson language project with this Code Starter
 
-Add a cognitive service or create bots and virtual agents using natural language understanding to enhance the capabilities of your app.
+Choose the Watson Language Code Starter to create your project. You can use the SpeechToText and LanguageTranslation Watson Language services to translate text into different languages.
