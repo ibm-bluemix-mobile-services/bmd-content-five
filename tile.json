@@ -2,9 +2,9 @@
 	"action" : {
 		"type": "url",
 		"text" : "Code Starter - Watson Language",
-		"link": "../create-project",
+		"link": "../../docs/mobile/tutorial_watson_language.html",
 		"description" : "Use the Watson Language Code Starter to create your project",
-		"newTab" : false,
+		"newTab" : true,
 		"altText" : "Code Starter - Watson Language"
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/watson_language.svg",
