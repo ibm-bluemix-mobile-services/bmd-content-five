@@ -1,12 +1,12 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Mobile Analytics",
-		"link": "../../docs/services/mobileanalytics/index.html",
-		"description" : "Mobile Analytics",
+		"text" : "Code Starter - Watson Language",
+		"link": "../../docs/mobile/tutorial_watson_language.html",
+		"description" : "Use the Watson Language Code Starter to create your project",
 		"newTab" : true,
-		"altText" : "Mobile Analytics"
+		"altText" : "Code Starter - Watson Language"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/analytics.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/analytics.svg"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/watson_language.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/watson_language.svg"
 }
