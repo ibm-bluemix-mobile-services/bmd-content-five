@@ -1,4 +1,3 @@
-# Add Watson Service
-## Enhance your mobile app with Cognitive
+# Video Tutorial
 
-Add a cognitive service or create bots and virtual agents using natural language understanding to enhance the capabilities of your app.
+Watch a video tutorial about how to create your project from the Basic Code Starter and generate your project code for iOS.

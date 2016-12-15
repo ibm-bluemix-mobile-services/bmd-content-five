@@ -1,10 +1,21 @@
 {
 	"action" : {
-		"type": "url",
-		"text" : "Add Watson Service",
-		"link": "https://www.ibm.com/watson/developercloud/",
-		"description" : "Add a Watson service to your app"
+		"type" : "url",
+		"text" : "Video Tuturial: iOS Basic Code Starter",
+		"link" : "https://www.youtube.com/channel/UCRW4t4Hzm9gzuiq5naERkCw",
+		"description" : "Video Tutorials",
+		"newTab" : true,
+		"altText" : "Learn More"
 	},
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval3/master/purple.png",
-	"icon" : "https://raw.githubusercontent.com/mven/CodeEval3/master/purple-icon.png"
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "GET STARTED",
+		"link" : "../create-project?starter=b5e5fe90-17a8-3ef7-b88f-b714f031c15c",
+		"description" : "Code Starter - Basic",
+		"newTab" : false,
+		"altText" : "GET STARTED"
+	},
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
+	"video" : "https://www.youtube.com/embed/cEHyWClBjpc"
 }
