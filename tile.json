@@ -15,8 +15,8 @@
 		"newTab" : true,
 		"altText" : "Get Started"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-05.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-05.svg",
 	"video" : "https://www.youtube.com/embed/TsIAh1Xj6NI",
 	"tag" : "App Pattern"
 }
