@@ -2,7 +2,7 @@
 	"action" : {
 		"type" : "url",
 		"text" : "Learn More",
-		"link" : "https://admin.blogs.prd.ibm.event.ibm.com/blogs/bluemix/2017/01/mobile-projects-on-bluemix-integrate-backend-apps-generate-sdks/",
+		"link" : "https://www.ibm.com/blogs/bluemix/2017/03/bluemix-developer-console-bff-backend-for-frontend-pattern/",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
