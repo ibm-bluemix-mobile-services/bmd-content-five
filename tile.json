@@ -1,21 +1,22 @@
 {
 	"action" : {
 		"type" : "url",
-		"text" : "Video Tuturial: iOS Basic Code Starter",
-		"link" : "https://www.youtube.com/channel/UCRW4t4Hzm9gzuiq5naERkCw",
-		"description" : "Video Tutorials",
+		"text" : "Learn More",
+		"link" : "https://www.ibm.com/blogs/bluemix/2017/03/bluemix-developer-console-bff-backend-for-frontend-pattern/",
+		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
 	},
 	"alternateAction" : {
 		"type" : "url",
-		"text" : "GET STARTED",
-		"link" : "../create-project?starter=b5e5fe90-17a8-3ef7-b88f-b714f031c15c",
+		"text" : "Get Started",
+		"link" : "https://github.com/ibm-bluemix-mobile-services/backend-for-frontend-node",
 		"description" : "Code Starter - Basic",
-		"newTab" : false,
-		"altText" : "GET STARTED"
+		"newTab" : true,
+		"altText" : "Get Started"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/create_project.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-five/create_project.svg",
-	"video" : "https://www.youtube.com/embed/cEHyWClBjpc"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-04.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-04.svg",
+	"video" : "https://www.youtube.com/embed/TsIAh1Xj6NI",
+	"tag" : "App Pattern"
 }
